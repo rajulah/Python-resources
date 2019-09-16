@@ -247,13 +247,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [profig](https://profig.readthedocs.io/en/default/) - Config from multiple formats with value conversion.
 * [python-decouple](https://github.com/henriquebastos/python-decouple) - Strict separation of settings from code.
 
-## Cryptography
-
-* [cryptography](https://cryptography.io/en/latest/) - A package designed to expose cryptographic primitives and recipes to Python developers.
-* [paramiko](https://github.com/paramiko/paramiko) - The leading native Python SSHv2 protocol library.
-* [passlib](https://passlib.readthedocs.io/en/stable/) - Secure password storage/hashing library, very high level.
-* [pynacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
-
 ## Data Analysis
 
 *Libraries for data analyzing.*
